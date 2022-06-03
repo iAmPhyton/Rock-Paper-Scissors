@@ -1,8 +1,10 @@
 import random, sys
 import choice
 
-print("n tttt ****** Rock Paper Scissors *****")
 # ROCK, PAPER SCISSORS
+
+print("n tttt ****** Rock Paper Scissors *****")
+
 
 win = 0
 loss = 0
