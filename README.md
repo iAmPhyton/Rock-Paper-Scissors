@@ -1,10 +1,15 @@
 import random, sys
+import choice
+
 print("n tttt ****** Rock Paper Scissors *****")
-# Trck win, loss and tie.
+# ROCK, PAPER SCISSORS
+
 win = 0
 loss = 0
 tie = 0
+
 # Loop the main game.
+
 while True:
     print(f"Win: {win}nLoss: {loss}nTie: {tie}")
     print("""Enter Your Move: 
